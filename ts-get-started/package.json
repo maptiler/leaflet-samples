@@ -1,0 +1,22 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@types/geojson": "^7946.0.10",
+    "@types/leaflet": "^1.9.3",
+    "leaflet": "^1.9.3"
+  }
+}
