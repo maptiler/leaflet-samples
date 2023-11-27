@@ -2,7 +2,7 @@
 
 ![maintenance-status](https://img.shields.io/badge/maintenance-deprecated-red.svg)
 
-Check the updated examples [here](https://docs.maptiler.com/leaflet/)
+### Check the updated examples [here](https://docs.maptiler.com/leaflet/)
 
 MapTiler code samples for Leaflet JS
 
